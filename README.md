@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yubinzou
 - 👀 I’m interested in cat video 
 - 🌱 I’m currently learning Java/Python
-- 💞️ I’m looking to collaborate on Looking a Job!!!
+- 💞️ I’m looking to collaborate on Looking for a Job!!!
 - 📫 How to reach me yubinzou25@gmail.com
 
 <!---
